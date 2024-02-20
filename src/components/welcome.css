@@ -1,0 +1,158 @@
+.welcome{
+    margin: 100px 12% 100px 12%;
+}
+.welcome-heading{
+    margin: 0 0 45px;
+    text-align: center;
+}
+.welcome-heading h1{
+    font-size: 50px;
+    color: #2b2b2b;
+    margin-bottom: 15px;
+    font-weight: 700;
+    margin-bottom: 7px;
+}
+.welcome-heading p{
+    color: #575757;
+    font-size: 14.23px;
+    line-height: 22.35px;
+    max-width: 430px;
+    margin: 0 auto;
+}
+.orange {
+    color: rgb(251, 112, 20);
+}
+.blue{
+    color: #086e9a;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    padding: 0 15px;
+}
+.content{
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(21,87,153,.08);
+    padding: 25px 20px 19px;
+    border-radius: 10px;
+    height: 165px;
+    width: 250px;
+}
+.content i{
+    font-size: 50px;
+}
+.box .content h2{
+    color: #2b2b2b;
+    font-size: 18.29px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-bottom: 3px;
+}
+.box .content p{
+    color: #575757;
+    font-size: 14.23px;
+    line-height: 22.35px;
+    max-width: 430px;
+    margin: 0 auto;
+}
+.photo{
+    
+    margin-top: 100px;
+}
+.photo ul{
+    position: relative;
+    height: 650px;
+    list-style: none;
+}
+.img{
+    border-radius: 20px;
+}
+.img1{
+    background-image: url("/src/Images/gallery1.jpg");
+    background-size: cover;
+    height: 210px;
+    width: 180px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.img2{
+    background-image: url("/src/Images/gallery2.jpg");
+    background-size: cover;
+    height: 360px;
+    width: 280px;
+    position: absolute;
+    left: 200px;
+    top: 0;
+}
+.img3{
+    background-image: url("/src/Images/gallery3.jpg");
+    background-size: cover;
+    height: 190px;
+    width: 180px;
+    position: absolute;
+    left: 500px;
+    top: 0;
+}
+.img4{
+    background-image: url("/src/Images/gallery4.jpg");
+    background-size: cover;
+    height: 290px;
+    width: 180px;
+    position: absolute;
+    left: 700px;
+    top: 0;
+}
+.img5{
+    background-image: url("/src/Images/gallery5.jpg");
+    background-size: cover;
+    height: 90px;
+    width: 150px;
+    position: absolute;
+    left: 900px;
+    top: 0;
+}
+.img6{
+    background-image: url("/src/Images/gallery6.jpg");
+    background-size: cover;
+    height: 150px;
+    width: 250px;
+    position: absolute;
+    left: 700px;
+    top: 310px;
+}
+.img7{
+    background-image: url("/src/Images/gallery7.jpg");
+    background-size: cover;
+    height: 240px;
+    width: 180px;
+    position: absolute;
+    left: 0px;
+    top: 230px;
+}.img8{
+    background-image: url("/src/Images/gallery8.jpg");
+    background-size: cover;
+    height: 190px;
+    width: 280px;
+    position: absolute;
+    left: 200px;
+    top: 380px;
+}
+.img9{
+    background-image: url("/src/Images/gallery9.jpg");
+    background-size: cover;
+    height: 240px;
+    width: 180px;
+    position: absolute;
+    left: 500px;
+    top: 210px;
+}.img10{
+    background-image: url("/src/Images/gallery10.jpg");
+    background-size: cover;
+    height: 180px;
+    width: 280px;
+    position: absolute;
+    left: 900px;
+    top: 110px;
+}
