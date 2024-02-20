@@ -35,6 +35,21 @@ const Welcome = () => {
                 <p>Mauris nec mi fequis ugiat, cursus tortor nec, pharetra tellus</p>
                 </div>
             </div>
+
+            <div className="photo">
+                <ul>
+                    <li><div className="img1 img"></div></li>
+                    <li><div className="img2 img"></div></li>
+                    <li><div className="img3 img"></div></li>
+                    <li><div className="img4 img"></div></li>
+                    <li><div className="img5 img"></div></li>
+                    <li><div className="img6 img"></div></li>
+                    <li><div className="img7 img"></div></li>
+                    <li><div className="img8 img"></div></li>
+                    <li><div className="img9 img"></div></li>
+                    <li><div className="img10 img"></div></li>
+                </ul>
+            </div>
         </div>
     )
 }

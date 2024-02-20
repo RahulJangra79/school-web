@@ -56,3 +56,103 @@
     max-width: 430px;
     margin: 0 auto;
 }
+.photo{
+    
+    margin-top: 100px;
+}
+.photo ul{
+    position: relative;
+    height: 650px;
+    list-style: none;
+}
+.img{
+    border-radius: 20px;
+}
+.img1{
+    background-image: url("/src/Images/gallery1.jpg");
+    background-size: cover;
+    height: 210px;
+    width: 180px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.img2{
+    background-image: url("/src/Images/gallery2.jpg");
+    background-size: cover;
+    height: 360px;
+    width: 280px;
+    position: absolute;
+    left: 200px;
+    top: 0;
+}
+.img3{
+    background-image: url("/src/Images/gallery3.jpg");
+    background-size: cover;
+    height: 190px;
+    width: 180px;
+    position: absolute;
+    left: 500px;
+    top: 0;
+}
+.img4{
+    background-image: url("/src/Images/gallery4.jpg");
+    background-size: cover;
+    height: 290px;
+    width: 180px;
+    position: absolute;
+    left: 700px;
+    top: 0;
+}
+.img5{
+    background-image: url("/src/Images/gallery5.jpg");
+    background-size: cover;
+    height: 90px;
+    width: 150px;
+    position: absolute;
+    left: 900px;
+    top: 0;
+}
+.img6{
+    background-image: url("/src/Images/gallery6.jpg");
+    background-size: cover;
+    height: 150px;
+    width: 250px;
+    position: absolute;
+    left: 700px;
+    top: 310px;
+}
+.img7{
+    background-image: url("/src/Images/gallery7.jpg");
+    background-size: cover;
+    height: 240px;
+    width: 180px;
+    position: absolute;
+    left: 0px;
+    top: 230px;
+}.img8{
+    background-image: url("/src/Images/gallery8.jpg");
+    background-size: cover;
+    height: 190px;
+    width: 280px;
+    position: absolute;
+    left: 200px;
+    top: 380px;
+}
+.img9{
+    background-image: url("/src/Images/gallery9.jpg");
+    background-size: cover;
+    height: 240px;
+    width: 180px;
+    position: absolute;
+    left: 500px;
+    top: 210px;
+}.img10{
+    background-image: url("/src/Images/gallery10.jpg");
+    background-size: cover;
+    height: 180px;
+    width: 280px;
+    position: absolute;
+    left: 900px;
+    top: 110px;
+}
