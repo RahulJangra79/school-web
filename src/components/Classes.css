@@ -22,7 +22,7 @@
 }
 
 .pic1{
-    background-image: url("/src/images/img3.jpg");
+    background-image: url("/src/Images/img3.jpg");
     width: 270px;
     height: 190px;
     background-size: cover;
@@ -32,7 +32,7 @@
 }
 
 .pic2{
-    background-image: url("/src/images/img4.jpg");
+    background-image: url("/src/Images/img4.jpg");
     width: 270px;
     height: 190px;
     background-size: cover;
@@ -41,7 +41,7 @@
 }
 
 .pic3{
-    background-image: url("/src/images/img1.jpg");
+    background-image: url("/src/Images/img1.jpg");
     width: 270px;
     height: 190px;
     background-size: cover;
@@ -54,7 +54,7 @@
     border-radius: 15px;
 }
 .pic4{
-    background-image: url("/src/images/img2.jpg");
+    background-image: url("/src/Images/img2.jpg");
     width: 270px;
     height: 190px;
     background-size: cover;
@@ -70,7 +70,7 @@
 }
 
 .pic-text{
-    background-image: url("/src/images/ico2.png");
+    background-image: url("/src/Images/ico2.png");
     background-repeat: no-repeat;
     height: 26px;
 }

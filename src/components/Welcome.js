@@ -3,7 +3,7 @@ import "./welcome.css"
 
 const Welcome = () => {
     return(
-        <div className="welcome">
+        <div className="welcome"> 
             <div className="welcome-heading">
             <h1>Welcome to <span className="orange">Shelly</span></h1>
             <p>Nunc consectetur ex nunc, id porttitor leo semper eget. 
